@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bee9ebaa-7072-4e9b-a642-ab598f03f22c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "邮件_mail_base": {
+      "ver": "1.0.3",
+      "uuid": "373d49df-8299-4fd9-ba87-ebf7a12f2d22",
+      "rawTextureUuid": "bee9ebaa-7072-4e9b-a642-ab598f03f22c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 803,
+      "height": 190,
+      "rawWidth": 803,
+      "rawHeight": 190,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

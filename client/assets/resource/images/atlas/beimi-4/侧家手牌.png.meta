@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "aaa25145-8d33-4d20-a365-88127624afad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "侧家手牌": {
+      "ver": "1.0.3",
+      "uuid": "5f3c27c4-957b-4946-a27e-38311f8d2a74",
+      "rawTextureUuid": "aaa25145-8d33-4d20-a365-88127624afad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 24,
+      "height": 60,
+      "rawWidth": 24,
+      "rawHeight": 63,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

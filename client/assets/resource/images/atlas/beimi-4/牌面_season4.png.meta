@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ea6ebcdf-ccf7-46bb-b769-d9ee09bf7f62",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "牌面_season4": {
+      "ver": "1.0.3",
+      "uuid": "a9b676d6-0e49-4b32-969c-77bb905111b0",
+      "rawTextureUuid": "ea6ebcdf-ccf7-46bb-b769-d9ee09bf7f62",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 3.5,
+      "trimX": 4,
+      "trimY": 0,
+      "width": 68,
+      "height": 104,
+      "rawWidth": 79,
+      "rawHeight": 111,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

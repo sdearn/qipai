@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8b03a0a7-0153-4342-8cc0-f4c17f09e3ce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "背景_龙纹居中": {
+      "ver": "1.0.3",
+      "uuid": "751fef2d-936c-450a-9a3a-971fed9c6ddb",
+      "rawTextureUuid": "8b03a0a7-0153-4342-8cc0-f4c17f09e3ce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 507,
+      "height": 506,
+      "rawWidth": 507,
+      "rawHeight": 506,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9b2ad90a-2eb4-4dff-a6c4-1c17827632a0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "侧家出牌": {
+      "ver": "1.0.3",
+      "uuid": "6baf4ce1-8fa1-4dd8-970e-b75c5be15c3c",
+      "rawTextureUuid": "9b2ad90a-2eb4-4dff-a6c4-1c17827632a0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 49,
+      "height": 47,
+      "rawWidth": 49,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

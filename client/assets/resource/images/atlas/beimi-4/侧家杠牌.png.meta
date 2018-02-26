@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4b37dbec-66f7-45b7-af70-44af1962cc46",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "侧家杠牌": {
+      "ver": "1.0.3",
+      "uuid": "c102913d-3c6c-4863-98d7-94ef77bb952f",
+      "rawTextureUuid": "4b37dbec-66f7-45b7-af70-44af1962cc46",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 52,
+      "height": 46,
+      "rawWidth": 52,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
